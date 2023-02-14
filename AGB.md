@@ -46,7 +46,7 @@ Die Einzelheiten zur Rechnungsstellung ergeben sich aus der jeweiligen Offerte.
 
 ### 2.4 Zahlungskonditionen
 
-Rechnungsbeträge bis CHF 3000.- sind innerhalb der Zahlungsfrist von 15 Tagen ohne Abzug zahlbar, ansonsten innerhalb der Zahlungsfrist von 30 Tagen ohne Abzug. Wird die Zahlung nicht spätestens zum Zahlungstermin geleistet, gerät dir Auftraggeberin ohne Mahnung automatisch in Verzug. Nach erfolgloser erster Mahnung (schriftlich oder per E-Mail) kann JI die Leistungserbringung bis zur vollständigen Zahlung einstellen (inklusive allfälliges Sperren der Applikation). Ab der zweiten Mahnung wird eine zusätzliche Mahngebühr von CHF 30.00 pro weitere Mahnung in Rechnung gestellt. Zudem kann JI den Vertrag mit der Auftraggeberin fristlos kündigen und/oder Schadenersatz geltend machen. JI macht Inkassofälle auf dem Betreibungsweg geltend.
+Rechnungsbeträge bis CHF 3000.- sind innerhalb der Zahlungsfrist von 15 Tagen ohne Abzug zahlbar, ansonsten innerhalb der Zahlungsfrist von 30 Tagen ohne Abzug. Wird die Zahlung nicht spätestens zum Zahlungstermin geleistet, gerät die Auftraggeberin ohne Mahnung automatisch in Verzug. Nach erfolgloser erster Mahnung (schriftlich oder per E-Mail) kann JI die Leistungserbringung bis zur vollständigen Zahlung einstellen (inklusive allfälliges Sperren der Applikation). Ab der zweiten Mahnung wird eine zusätzliche Mahngebühr von CHF 30.00 pro weitere Mahnung in Rechnung gestellt. Zudem kann JI den Vertrag mit der Auftraggeberin fristlos kündigen und/oder Schadenersatz geltend machen. JI macht Inkassofälle auf dem Betreibungsweg geltend.
 
 ### 2.5 Annullierung
 
