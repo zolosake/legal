@@ -13,42 +13,60 @@ Die Einzelheiten zu den angebotenen Dienstleistungen und Produkten von JI und de
 Sofern nichts anderes vereinbart wurde, gelten folgende Stundenansätze von Montag bis Freitag ohne Feiertage des Kanton Zürich zwischen 06:00 und 19:00:
 
 
-| Name | Beschrieb | Preis |
-|:-|:-|-:|
-| Support Level 1 | Grundlegende Hilfe- und Service-Desk-Leistungen | CHF 90 |
-| Support Level 2 | Eingehende technische Unterstützung | CHF 120 |
-| Beratung | | CHF 120 |
-| Reisen | | CHF 90 |
-| Alles andere | Z.B. Programmierung, UI/UX-Design | CHF 120 |
+| Name              | Beschrieb                          | Preis in CHF |
+|:------------------|:-----------------------------------|-------------:|
+| Support Level 1   | Hilfe- und Service-Desk-Leistungen |           90 |
+| Support Level 2   | Technische Leistungen              |          120 |
+| Beratung          |                                    |          120 |
+| Projektverwaltung |                                    |          160 |
+| Reisen            |                                    |           90 |
+| Alles andere      | Z.B. Programmierung, UI/UX-Design  |          120 |
 
 Falls die Auftraggeberin ausdrücklich Dienstleistungen ausserhalb dieser Zeiten beansprucht, gelten folgende prozentuale Zuschläge auf die oben aufgeführten Stundenansätze:
 
-| Name | Beschrieb | Preiszuschlag |
-|:-|:-|-:|
-| Abend | 19:00 bis 22:00 | 50% |
-| Nacht | 22:00 bis 06:00 | 100% |
-| Samstag | | 50% |
-| Sonntag || 100% |
-| Feiertage des Kanton Zürich || 150% |
+| Name                        | Beschrieb       | Preiszuschlag in % |
+|:----------------------------|:----------------|-------------------:|
+| Abend                       | 19:00 bis 22:00 |                 50 |
+| Nacht                       | 22:00 bis 06:00 |                100 |
+| Samstag                     |                 |                 50 |
+| Sonntag                     |                 |                100 |
+| Feiertage des Kanton Zürich |                 |                150 |
 
 Die prozentualen Zuschläge sind kumulativ. So ist beispielsweise eine Dienstleistung am Sonntag Abend mit 150% Zuschlag auf den Stundensatz zu vergüten.
 Zeitlich angebrochene Stunden werden pro Teilaufgabe eines Auftrages auf sechs Minuten, ein Zehntel einer Stunde, genau abgerechnet. Angebrochene Zehntel werden pro Teilaufgabe eines Auftrages abgerundet, mit Ausnahme des aller ersten Zehntels der Arbeitszeit einer Teilaufgabe. Dieses Zehntel wird aufgerundet.
 
-### 2.2 Offerte und Vertragsverhältnis
+### 2.2 Service Level Agreements
 
-Offerten haben eine Gültigkeit von 15 Tagen sofern nichts anderes vereinbart wurde. Eine Offerte wird erst mit deren Annahme durch den Auftraggeber (wie Unterzeichnung, E-Mail, Github-Issue-Beitrag, oder Leistungsbezug) für beide Parteien verbindlich. Der Vertrag kommt mit der Annahme der Offerte durch den Auftraggeber zustande.
+Sofern im Auftrag nichts anders vereinbart wurde, gilt das SLA I.
 
-### 2.3 Rechnungsstellung
+| Leistung                     |    SLA I    | SLA II | SLA III |
+|:-----------------------------|:-----------:|:------:|:-------:|
+| E-Mail-Support               |      ✓      |   ✓    |    ✓    |
+| Telefon-Support              |      ✓      |   ✓    |    ✓    |
+| Grundlegendes Monitoring     |      ✗      |   ✓    |    ✓    |
+| Inkludierter Service in Std. |      ✗      |   ✗    |    2    |
+| Reaktionszeit in Std.        | best effort |   48   |   24    |
+| Preis CHF/Monat              |  kostenlos  |  320   |   640   |
+
+E-Mail-Support wird nur via Github-Issues angeboten. Telefon-Support wird nur nach zeitlicher Absprache via SMS oder Threema angeboten. Das grundlegende Monitoring beinhaltet Health Checks, Error Tracking und optionales SEO-Monitoring (z.B. via Google Search Console). Die Auftraggeberin wird innerhalb entsprechender Reaktionszeit über die aus dem Monitoring anfallenden Serviceleistungen via Github in Kenntnis gesetzt und entscheidet, welche der Leistungen sie annehmen möchte.
+
+Die SLA-Preise verstehen sich ausschliesslich der Serviceleistungen abzüglich der im Preis inkludierten Stunden.
+
+### 2.3 Offerte und Vertragsverhältnis
+
+Offerten haben eine Gültigkeit von 15 Tagen sofern nichts anderes vereinbart wurde. Eine Offerte wird erst mit deren Annahme durch den Auftraggeber (wie Unterzeichnung, Github-Issue-Beitrag, oder Leistungsbezug) für beide Parteien verbindlich. Der Vertrag kommt mit der Annahme der Offerte durch den Auftraggeber zustande.
+
+### 2.4 Rechnungsstellung
 
 Die Rechnung wird nach Abschluss des Auftrags gestellt und der Auftraggeberin elektronisch zugesandt. JI kann zudem Monats- oder Zwischenrechnungen stellen. Die Höhe einer Zwischenrechnung richtet sich nach den Leistungen, die bis zu diesem Zeitpunkt durch JI erbracht wurden. JI behält sich vor, für grössere Aufträge bei Vertragsabschluss eine Akontozahlung von bis zu 50% des Offertbetrags zu verlangen.
 Rechnungen für Wartungsverträge und dergleichen werden in der Regel bei Auftragserteilung für die laufende Vertragsdauer gestellt und sind im Voraus zahlbar.
 Die Einzelheiten zur Rechnungsstellung ergeben sich aus der jeweiligen Offerte.
 
-### 2.4 Zahlungskonditionen
+### 2.5 Zahlungskonditionen
 
-Rechnungsbeträge bis CHF 3000.- sind innerhalb der Zahlungsfrist von 15 Tagen ohne Abzug zahlbar, ansonsten innerhalb der Zahlungsfrist von 30 Tagen ohne Abzug. Stellt JI eine Rechnung auf Grund verletzter Mitwirkungspflichten (4.2), verkürzt sich die Zahlungsfrist um fünf Wochentage. Wird die Zahlung nicht spätestens zum Zahlungstermin geleistet, gerät die Auftraggeberin ohne Mahnung automatisch in Verzug. Nach erfolgloser erster Mahnung (schriftlich oder per E-Mail) kann JI die Leistungserbringung bis zur vollständigen Zahlung einstellen (inklusive allfälliges Sperren der Applikation). Ab der zweiten Mahnung wird eine zusätzliche Mahngebühr von CHF 30.00 pro weitere Mahnung in Rechnung gestellt. Zudem kann JI den Vertrag mit der Auftraggeberin fristlos kündigen und/oder Schadenersatz geltend machen. JI macht Inkassofälle auf dem Betreibungsweg geltend.
+Rechnungsbeträge bis CHF 3000.- sind innerhalb der Zahlungsfrist von 15 Tagen ohne Abzug zahlbar, ansonsten innerhalb der Zahlungsfrist von 30 Tagen ohne Abzug. Stellt JI eine Rechnung auf Grund verletzter Mitwirkungspflichten (4.2), verkürzt sich die Zahlungsfrist um fünf Wochentage. Wird die Zahlung nicht spätestens zum Zahlungstermin geleistet, gerät dir Auftraggeberin ohne Mahnung automatisch in Verzug. Nach erfolgloser erster Mahnung (schriftlich oder per E-Mail) kann JI die Leistungserbringung bis zur vollständigen Zahlung einstellen (inklusive allfälliges Sperren der Applikation). Ab der zweiten Mahnung wird eine zusätzliche Mahngebühr von CHF 30.00 pro weitere Mahnung in Rechnung gestellt. Zudem kann JI den Vertrag mit der Auftraggeberin fristlos kündigen und/oder Schadenersatz geltend machen. JI macht Inkassofälle auf dem Betreibungsweg geltend.
 
-### 2.5 Annullierung
+### 2.6 Annullierung
 
 Wird ein Auftrag durch den Auftraggeber annulliert, so sind alle bis zum Zeitpunkt der Annullierung aufgelaufenen Stunden bzw. Aufwände zu entschädigen. Gleichzeitig verliert der Auftraggeber jegliches Nutzungsrecht (vgl. Ziffer 3.7) an den durch JI zur Verfügung gestellten Produkten.
 
@@ -101,7 +119,7 @@ JI ist es ausdrücklich erlaubt, im Rahmen der Auftragserbringung Dritte beizuzi
 
 Der Auftraggeber wirkt bei der Erbringung des Auftrags durch JI mit, sofern dies erforderlich ist. Er stellt alle zur Durchführung der Leistungen erforderlichen Informationen rechtzeitig in der von JI vorbestimmten Form und über den von JI vorbestimmten Weg zur Verfügung. Ohne gegenteilige Information des Kunden geht JI davon aus, dass lediglich Kopien übergeben werden, welche für den Auftrag gebraucht und von JI verändert werden dürfen.
 
-Der Auftraggeber erklärt sich damit einverstanden, seinerseits angegebene Termine einzuhalten und JI im Falle der voraussichtlichen Nichteinhaltung frühzeitig zu informieren. Anfragen von JI an den Auftraggeber, sei es bezüglich benötigten Materials oder anderen Angelegenheiten, sind innert nützlicher Frist, maximal aber innert 5 Werktagen, zu beantworten. Bei Überschreitung dieser Frist ist JI berechtigt, Liefertermine zu verschieben und angefallene Aufwände zu verrechnen.
+Der Auftraggeber erklärt sich damit einverstanden, seinerseits angegebene Termine einzuhalten und JI im Falle der voraussichtlichen Nichteinhaltung frühzeitig zu informieren. Anfragen von JI an den Auftraggeber, sei es bezüglich benötigten Materials oder anderen Angelegenheiten, sind innert nützlicher Frist, maximal aber innert fünf Werktagen, zu beantworten. Bei Überschreitung dieser Frist ist JI berechtigt, Liefertermine zu verschieben und angefallene Aufwände zu verrechnen.
 Sofern der Auftraggeber seinen Mitwirkungspflichten vertragswidrig wird, nicht ordnungsgemäss oder verspätet nachkommt und sich infolge dessen die Erbringung der Leistung von JI verzögert oder Schäden entstehen, ist JI hierfür nicht verantwortlich. Entsteht hierdurch ein Mehraufwand, so ist dieser durch den Auftraggeber zu erstatten.
 
 ### 4.2 Auftragsänderungen und Zusatzleistungen
@@ -112,4 +130,4 @@ Während der Durchführung eines Auftrags kann die Auftraggeberin Änderungen od
 
 Die Auftraggeberin kann Forderungen von JI nur mit unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen verrechnen. Die AGB gelten in der zum Zeitpunkt des Vertragsabschlusses vorliegenden Form auf unbestimmte Zeit, sofern nichts anderes schriftlich vereinbart wurde. Sollten sich einzelne Bestimmungen dieser AGB als ungültig, unwirksam oder unerfüllbar erweisen, so wird dadurch die Gültigkeit, Wirksamkeit und Erfüllbarkeit der übrigen Teile der AGB nicht beeinträchtigt. Die vorliegenden AGB unterstehen ausschliesslich schweizerischem Recht. Ausschliesslicher Gerichtsstand ist das zuständige Gericht am Wohnsitz von JI, sofern das Gesetz keinen zwingenden Gerichtsstand vorsieht.
 
-Jérôme Imfeld, Opfikon, 27. Januar 2023
+Jérôme Imfeld, Opfikon, 12. Mai 2023
