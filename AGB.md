@@ -3,7 +3,7 @@
 ## 1. Allgemeines
 
 Diese Allgemeinen Geschäftsbedingungen (AGB) regeln die Geschäftsbeziehung zwischen der Auftraggeberin (nachfolgend auch Auftraggeber) und Jérôme Imfeld (nachfolgend JI). Auftraggeber, die eine Dienstleistung oder ein Produkt von JI in Anspruch nehmen, anerkennen damit die vorliegenden AGB.
-JI bietet Dienstleistungen und Produkte in den Bereichen Erstellung und Wartung von Web-, Mobile- und Desktop-Applikationen, allgemeine Beratung und Support.
+JI bietet Dienstleistungen und Produkte in den Bereichen Erstellung und Wartung von Web-, Mobile- und Desktop-Applikationen, allgemeine Beratung, Support und grundlegende Projektverwaltung.
 Die Einzelheiten zu den angebotenen Dienstleistungen und Produkten von JI und deren Umfang ergeben sich aus der jeweiligen Offerte.
 
 ## 2. Preise und Zahlungskonditionen
@@ -48,9 +48,9 @@ Sofern im Auftrag nichts anders vereinbart wurde, gilt das SLA I und die Geschä
 | Reaktionszeit in Std.        | best effort |   48   | 6<br/>(innerhalb der Geschäftszeiten) |
 | Preis CHF/Monat              |  kostenlos  |  320   |                  700                  |
 
-E-Mail-Support wird nur via Github-Issues angeboten. Telefon-Support wird nur nach zeitlicher Absprache via SMS oder Threema angeboten. Das grundlegende Monitoring beinhaltet Health Checks, Error Tracking und optionales SEO-Monitoring (z.B. via Google Search Console). Die Auftraggeberin wird innerhalb entsprechender Reaktionszeit über die aus dem Monitoring anfallenden Serviceleistungen via Github in Kenntnis gesetzt und entscheidet, welche der Leistungen sie annehmen möchte.
+E-Mail-Support wird nur via Github-Issues angeboten. Telefon-Support wird nur nach zeitlicher Absprache via SMS oder Threema angeboten. Das grundlegende Monitoring beinhaltet Health Checks, Error Tracking und optionales SEO-Monitoring (z.B. via Google Search Console). Die Auftraggeberin wird innerhalb entsprechender Reaktionszeit über die aus dem Monitoring anfallenden Serviceleistungen via Github in Kenntnis gesetzt und entscheidet im Rahmen der Mitwirkungspflichten ([4.1](#41-mitwirkungspflichten)), welche der Leistungen sie annehmen möchte.
 
-Die SLA-Preise verstehen sich ausschliesslich der Serviceleistungen abzüglich der im Preis inkludierten Stunden.
+Die SLA-Preise verstehen sich fix und ausschliesslich der Serviceleistungen. Inkludierte Servicestunden werden vom Zeitaufwand der Serviceleistungen abgezogen. Die Kosten für die Serviceleistungen betragen minimal CHF 0. Ungebrauchte inkludierte Servicestunden werden nicht auf den Folgemonat übertragen.
 
 ### 2.3 Offerte und Vertragsverhältnis
 
@@ -64,7 +64,7 @@ Die Einzelheiten zur Rechnungsstellung ergeben sich aus der jeweiligen Offerte.
 
 ### 2.5 Zahlungskonditionen
 
-Rechnungsbeträge bis CHF 3000.- sind innerhalb der Zahlungsfrist von 15 Tagen ohne Abzug zahlbar, ansonsten innerhalb der Zahlungsfrist von 30 Tagen ohne Abzug. Stellt JI eine Rechnung auf Grund verletzter Mitwirkungspflichten (4.2), verkürzt sich die Zahlungsfrist um fünf Wochentage. Wird die Zahlung nicht spätestens zum Zahlungstermin geleistet, gerät dir Auftraggeberin ohne Mahnung automatisch in Verzug. Nach erfolgloser erster Mahnung (schriftlich oder per E-Mail) kann JI die Leistungserbringung bis zur vollständigen Zahlung einstellen (inklusive allfälliges Sperren der Applikation). Ab der zweiten Mahnung wird eine zusätzliche Mahngebühr von CHF 30.00 pro weitere Mahnung in Rechnung gestellt. Zudem kann JI den Vertrag mit der Auftraggeberin fristlos kündigen und/oder Schadenersatz geltend machen. JI macht Inkassofälle auf dem Betreibungsweg geltend.
+Rechnungsbeträge bis CHF 3000.- sind innerhalb der Zahlungsfrist von 15 Tagen ohne Abzug zahlbar, ansonsten innerhalb der Zahlungsfrist von 30 Tagen ohne Abzug. Stellt JI eine Rechnung auf Grund verletzter Mitwirkungspflichten ([4.1](#41-mitwirkungspflichten)), verkürzt sich die Zahlungsfrist um fünf Wochentage. Wird die Zahlung nicht spätestens zum Zahlungstermin geleistet, gerät dir Auftraggeberin ohne Mahnung automatisch in Verzug. Nach erfolgloser erster Mahnung (schriftlich oder per E-Mail) kann JI die Leistungserbringung bis zur vollständigen Zahlung einstellen (inklusive allfälliges Sperren der Applikation). Ab der zweiten Mahnung wird eine zusätzliche Mahngebühr von CHF 30.00 pro weitere Mahnung in Rechnung gestellt. Zudem kann JI den Vertrag mit der Auftraggeberin fristlos kündigen und/oder Schadenersatz geltend machen. JI macht Inkassofälle auf dem Betreibungsweg geltend.
 
 ### 2.6 Annullierung
 
