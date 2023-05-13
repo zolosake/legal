@@ -10,7 +10,7 @@ Die Einzelheiten zu den angebotenen Dienstleistungen und Produkten von JI und de
 
 ### 2.1 Stundenansätze
 
-Sofern nichts anderes vereinbart wurde, gelten folgende Stundenansätze von Montag bis Freitag ohne Feiertage des Kanton Zürich zwischen 06:00 und 19:00:
+Sofern nichts anderes vereinbart wurde, gelten folgende Stundenansätze von Montag bis Freitag ohne Feiertage des Kanton Zürich zwischen 08:00 und 19:00:
 
 
 | Name              | Beschrieb                          | Preis in CHF |
@@ -27,26 +27,26 @@ Falls die Auftraggeberin ausdrücklich Dienstleistungen ausserhalb dieser Zeiten
 | Name                        | Beschrieb       | Preiszuschlag in % |
 |:----------------------------|:----------------|-------------------:|
 | Abend                       | 19:00 bis 22:00 |                 50 |
-| Nacht                       | 22:00 bis 06:00 |                100 |
+| Nacht                       | 22:00 bis 08:00 |                100 |
 | Samstag                     |                 |                 50 |
 | Sonntag                     |                 |                100 |
 | Feiertage des Kanton Zürich |                 |                150 |
 
 Die prozentualen Zuschläge sind kumulativ. So ist beispielsweise eine Dienstleistung am Sonntag Abend mit 150% Zuschlag auf den Stundensatz zu vergüten.
-Zeitlich angebrochene Stunden werden pro Teilaufgabe eines Auftrages auf sechs Minuten, ein Zehntel einer Stunde, genau abgerechnet. Angebrochene Zehntel werden pro Teilaufgabe eines Auftrages abgerundet, mit Ausnahme des aller ersten Zehntels der Arbeitszeit einer Teilaufgabe. Dieses Zehntel wird aufgerundet.
+Zeitlich angebrochene Stunden werden pro Teilaufgabe eines Auftrages auf sechs Minuten, ein Zehntel einer Stunde, genau abgerechnet. Angebrochene Zehntel werden pro Teilaufgabe eines Auftrages abgerundet, mit Ausnahme des allerersten Zehntels der Arbeitszeit einer Teilaufgabe. Dieses Zehntel wird aufgerundet.
 
 ### 2.2 Service Level Agreements
 
-Sofern im Auftrag nichts anders vereinbart wurde, gilt das SLA I.
+Sofern im Auftrag nichts anders vereinbart wurde, gilt das SLA I und die Geschäftszeiten von Montag bis Freitag, jeweils von 09:00 - 17:00 Uhr.
 
-| Leistung                     |    SLA I    | SLA II | SLA III |
-|:-----------------------------|:-----------:|:------:|:-------:|
-| E-Mail-Support               |      ✓      |   ✓    |    ✓    |
-| Telefon-Support              |      ✓      |   ✓    |    ✓    |
-| Grundlegendes Monitoring     |      ✗      |   ✓    |    ✓    |
-| Inkludierter Service in Std. |      ✗      |   ✗    |    2    |
-| Reaktionszeit in Std.        | best effort |   48   |   24    |
-| Preis CHF/Monat              |  kostenlos  |  320   |   640   |
+| Leistung                     |    SLA I    | SLA II |                SLA III                |
+|:-----------------------------|:-----------:|:------:|:-------------------------------------:|
+| E-Mail-Support               |      ✓      |   ✓    |                   ✓                   |
+| Telefon-Support              |      ✓      |   ✓    |                   ✓                   |
+| Grundlegendes Monitoring     |      ✗      |   ✓    |                   ✓                   |
+| Inkludierter Service in Std. |      ✗      |   ✗    |                   1                   |
+| Reaktionszeit in Std.        | best effort |   48   | 6<br/>(innerhalb der Geschäftszeiten) |
+| Preis CHF/Monat              |  kostenlos  |  320   |                  700                  |
 
 E-Mail-Support wird nur via Github-Issues angeboten. Telefon-Support wird nur nach zeitlicher Absprache via SMS oder Threema angeboten. Das grundlegende Monitoring beinhaltet Health Checks, Error Tracking und optionales SEO-Monitoring (z.B. via Google Search Console). Die Auftraggeberin wird innerhalb entsprechender Reaktionszeit über die aus dem Monitoring anfallenden Serviceleistungen via Github in Kenntnis gesetzt und entscheidet, welche der Leistungen sie annehmen möchte.
 
@@ -100,7 +100,7 @@ JI behält sich das Recht vor, bei widerrechtlichen, unsittlichen unethischen, p
 
 ### 3.7 Nutzungs- und Urheberrechte
 
-Die Nutzungs- und Urheberechte aller durch JI erbrachten Endprodukte, welche im Rahmen des Vertrags individuell und kundenbezogen erbracht werden, gehen, soweit sie übertragbar sind, ab Zeitpunkt des Projektabschlusses und nach vollständiger Bezahlung auf die Auftraggeberin über. Sämtliche Rechte an durch JI entwickelten Vorstufen und Varianten des Endprodukts (Konzepte, Skizzen, Entwürfe, Entwicklungsdokumente usw.) verbleiben bei JI.
+Die Nutzungs- und Urheberrechte aller durch JI erbrachten Endprodukte, welche im Rahmen des Vertrags individuell und kundenbezogen erbracht werden, gehen, soweit sie übertragbar sind, ab Zeitpunkt des Projektabschlusses und nach vollständiger Bezahlung auf die Auftraggeberin über. Sämtliche Rechte an durch JI entwickelten Vorstufen und Varianten des Endprodukts (Konzepte, Skizzen, Entwürfe, Entwicklungsdokumente usw.) verbleiben bei JI.
 Benützt JI Software von Dritten, so verbleibt diesen sämtliche Rechte daran, ausser wenn zwischen dem Dritten, JI und/oder der Auftraggeberin eine anderweitige Vereinbarung besteht. Es gelten die Lizenzbestimmungen der jeweiligen Dritten und allenfalls Zusatzbedingungen von JI. Für Open-Source-Produkte gelten die jeweils zugehörigen Lizenzbestimmungen. Informationen darüber kann die Auftraggeberin jederzeit auf der Website der Drittanbieter einsehen. Die Auftraggeberin nimmt ausdrücklich zur Kenntnis und ist damit einverstanden, dass allfällig von JI beigezogene Produkte oder Dienstleistungen Dritter nicht in deren Eigentum ist.
 Es steht in der Verantwortung der Auftraggeberin, für jegliches Material (wie Texte, Grafiken, Videos usw.), welches sie über das von JI erbrachte Produkt publiziert, die entsprechenden Nutzungs- und Urheberrechte zu besitzen, beziehungsweise die Einwilligung des jeweiligen Urhebers einzuholen. JI leitet Rechtsansprüche von Dritten aus Urheberrechtsverletzungen oder anderen Ansprüchen an die Auftraggeberin weiter. Etwaige Kosten der Rechtsverfolgung trägt ausschliesslich der Auftraggeberin.
 
