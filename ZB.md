@@ -2,9 +2,9 @@
 
 ## 1. Issues
 
-In dieser Repository werden Issues als Aufträge behandelt. Die Auftraggeberin verpflichtet sich der Einhaltung der [AGB](../../blob/2c9aa96338f0d7d9d495698a2d852aaada197f4c/AGB.md) während des gesamten Lebenszykluses eines Issues (siehe insbesondere [4.1. Mitwirkungspflichten](../../blob/2c9aa96338f0d7d9d495698a2d852aaada197f4c/AGB.md#41-mitwirkungspflichten)).
+In dieser Repository werden Issues als Aufträge behandelt. Die Auftraggeberin verpflichtet sich der Einhaltung der [AGB](AGB.md) während des gesamten Lebenszykluses eines Issues (siehe insbesondere [4.1. Mitwirkungspflichten](AGB.md#41-mitwirkungspflichten)).
 
-Die Bearbeitung von Issues durch JI ist im Rahmen der [AGB](../../blob/2c9aa96338f0d7d9d495698a2d852aaada197f4c/AGB.md) kostenpflichtig.
+Die Bearbeitung von Issues durch JI ist im Rahmen der [AGB](AGB.md) kostenpflichtig.
 
 ### 1.1 Auftragsanfrage (Auftraggeberin)
 
