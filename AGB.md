@@ -12,7 +12,6 @@ Die Einzelheiten zu den angebotenen Dienstleistungen und Produkten von JI und de
 
 Sofern nichts anderes vereinbart wurde, gelten folgende Stundenansätze von Montag bis Freitag ohne Feiertage des Kanton Zürich zwischen 08:00 und 19:00:
 
-
 | Name              | Beschrieb                          | Preis in CHF |
 |:------------------|:-----------------------------------|-------------:|
 | Support Level 1   | Hilfe- und Service-Desk-Leistungen |           90 |
