@@ -38,14 +38,14 @@ Zeitlich angebrochene Stunden werden pro Teilaufgabe eines Auftrages auf sechs M
 
 Sofern im Auftrag nichts anders vereinbart wurde, gilt das SLA I und die Geschäftszeiten von Montag bis Freitag, jeweils von 09:00 - 17:00 Uhr.
 
-| Leistung                     |    SLA I    | SLA II |                SLA III                |
-|:-----------------------------|:-----------:|:------:|:-------------------------------------:|
-| E-Mail-Support               |      ✓      |   ✓    |                   ✓                   |
-| Telefon-Support              |      ✓      |   ✓    |                   ✓                   |
-| Grundlegendes Monitoring     |      ✗      |   ✓    |                   ✓                   |
-| Inkludierter Service in Std. |      ✗      |   ✗    |                   1                   |
-| Reaktionszeit in Std.        | best effort |   48   | 6<br/>(innerhalb der Geschäftszeiten) |
-| Preis CHF/Monat              |  kostenlos  |  320   |                  700                  |
+| Leistung                     |    SLA I    |             SLA II              |                SLA III                |
+|:-----------------------------|:-----------:|:-------------------------------:|:-------------------------------------:|
+| E-Mail-Support               |      ✓      |                ✓                |                   ✓                   |
+| Telefon-Support              |      ✓      |                ✓                |                   ✓                   |
+| Grundlegendes Monitoring     |      ✗      |                ✓                |                   ✓                   |
+| Inkludierter Service in Std. |      ✗      |                ✗                |                   1                   |
+| Reaktionszeit in Std.        | best effort | 48<br/>(innerhalb der Werktage) | 6<br/>(innerhalb der Geschäftszeiten) |
+| Preis CHF/Monat              |  kostenlos  |               320               |                  700                  |
 
 E-Mail-Support wird nur via Github-Issues angeboten. Telefon-Support wird nur nach zeitlicher Absprache via SMS oder Threema angeboten. Das grundlegende Monitoring beinhaltet Health Checks, Error Tracking und optionales SEO-Monitoring (z.B. via Google Search Console). Die Auftraggeberin wird innerhalb entsprechender Reaktionszeit über die aus dem Monitoring anfallenden Serviceleistungen via Github in Kenntnis gesetzt und entscheidet im Rahmen der Mitwirkungspflichten ([4.1](#41-mitwirkungspflichten)), welche der Leistungen sie annehmen möchte.
 
