@@ -81,7 +81,7 @@ JI garantiert keinen Erfolg einer allfälligen Verbesserung der Positionierung i
 
 ### 3.3 Mängelgewährleistung
 
-Mängel, welche zugesicherte Eigenschaften betreffen, werden, sofern von der Auftraggeberin innert 5 Werktagen schriftlich gerügt, von JI mittels kostenloser Nachbesserung innert angemessener Frist behoben. Als Mangel gilt ein Umstand, der entweder zu einer erheblichen Funktionsstörung beiträgt, oder die wesentliche Funktion des Produktes beeinträchtigt.
+Mängel, welche zugesicherte Eigenschaften betreffen, werden, sofern von der Auftraggeberin innerhalb 5 Werktagen schriftlich gerügt, von JI mittels kostenloser Nachbesserung innert angemessener Frist behoben. Als Mangel gilt ein Umstand, der entweder zu einer erheblichen Funktionsstörung beiträgt, oder die wesentliche Funktion des Produktes beeinträchtigt.
 Mängel, welche nicht durch JI verursacht worden sind, wie von JI genutzte Produkte oder Dienstleistungen Dritter, werden von dieser Gewährleistung ausgeschlossen.
 
 ### 3.4 Haftungsausschluss
