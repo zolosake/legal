@@ -15,11 +15,11 @@ Sofern nichts anderes vereinbart wurde, gelten folgende Stundenansätze von Mont
 | Name              | Beschrieb                          | Preis in CHF |
 |:------------------|:-----------------------------------|-------------:|
 | Support Level 1   | Hilfe- und Service-Desk-Leistungen |           90 |
-| Support Level 2   | Technische Leistungen              |          120 |
-| Beratung          |                                    |          120 |
+| Support Level 2   | Technische Leistungen              |          140 |
+| Beratung          |                                    |          140 |
 | Projektverwaltung |                                    |          160 |
 | Reisen            |                                    |           90 |
-| Alles andere      | Z.B. Programmierung, UI/UX-Design  |          120 |
+| Alles andere      | Z.B. Programmierung, UI/UX-Design  |          140 |
 
 Falls die Auftraggeberin ausdrücklich Dienstleistungen ausserhalb dieser Zeiten beansprucht, gelten folgende prozentuale Zuschläge auf die oben aufgeführten Stundenansätze:
 
