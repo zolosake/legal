@@ -43,7 +43,7 @@ Sofern im Auftrag nichts anders vereinbart wurde, gilt das SLA I und die Geschä
 | E-Mail-Support               |      ✓      |                   ✓                    |                   ✓                   |
 | Telefon-Support              |      x      |                   ✓                    |                   ✓                   |
 | Grundlegendes Monitoring     |      ✗      |                   x                    |                   ✓                   |
-| Inkludierter Service in Std. |      ✗      |                   ✗                    |                   1 pro Monat         |
+| Inkludierter Service in Std. |      ✗      |                   ✗                    |                1/Monat                |
 | Reaktionszeit in Std.        | best effort | 24<br/>(innerhalb der Geschäftszeiten) | 12<br/>(innerhalb der Geschäftszeiten)|
 | Preis CHF/Monat              |  kostenlos  |                  350                   |                  700                  |
 
