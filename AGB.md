@@ -41,7 +41,7 @@ Sofern im Auftrag nichts anders vereinbart wurde, gilt das SLA I und die Geschä
 | Leistung                     |    SLA I    |                 SLA II                 |                SLA III                |
 |:-----------------------------|:-----------:|:--------------------------------------:|:-------------------------------------:|
 | E-Mail-Support               |      ✓      |                   ✓                    |                   ✓                   |
-| Telefon-Support              |      ✓      |                   ✓                    |                   ✓                   |
+| Telefon-Support              |      x      |                   ✓                    |                   ✓                   |
 | Grundlegendes Monitoring     |      ✗      |                   ✓                    |                   ✓                   |
 | Inkludierter Service in Std. |      ✗      |                   ✗                    |                   1                   |
 | Reaktionszeit in Std.        | best effort | 24<br/>(innerhalb der Geschäftszeiten) | 12<br/>(innerhalb der Geschäftszeiten) |
