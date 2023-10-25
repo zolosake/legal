@@ -44,7 +44,7 @@ Sofern im Auftrag nichts anders vereinbart wurde, gilt das SLA I und die Geschä
 | Telefon-Support              |      ✓      |                   ✓                    |                   ✓                   |
 | Grundlegendes Monitoring     |      ✗      |                   ✓                    |                   ✓                   |
 | Inkludierter Service in Std. |      ✗      |                   ✗                    |                   1                   |
-| Reaktionszeit in Std.        | best effort | 18<br/>(innerhalb der Geschäftszeiten) | 6<br/>(innerhalb der Geschäftszeiten) |
+| Reaktionszeit in Std.        | best effort | 24<br/>(innerhalb der Geschäftszeiten) | 12<br/>(innerhalb der Geschäftszeiten) |
 | Preis CHF/Monat              |  kostenlos  |                  320                   |                  700                  |
 
 E-Mail-Support wird nur via Github-Issues angeboten. Telefon-Support wird nur nach zeitlicher Absprache via SMS oder Threema angeboten. Das grundlegende Monitoring beinhaltet Health Checks, Error Tracking und optionales SEO-Monitoring (z.B. via Google Search Console). Die Auftraggeberin wird innerhalb entsprechender Reaktionszeit über die aus dem Monitoring anfallenden Serviceleistungen via Github in Kenntnis gesetzt und entscheidet im Rahmen der Mitwirkungspflichten ([4.1](#41-mitwirkungspflichten)), welche der Leistungen sie annehmen möchte.
