@@ -129,4 +129,4 @@ Während der Durchführung eines Auftrags kann die Auftraggeberin Änderungen od
 
 Die Auftraggeberin kann Forderungen von JI nur mit unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen verrechnen. Die AGB gelten in der zum Zeitpunkt des Vertragsabschlusses vorliegenden Form auf unbestimmte Zeit, sofern nichts anderes schriftlich vereinbart wurde. Sollten sich einzelne Bestimmungen dieser AGB als ungültig, unwirksam oder unerfüllbar erweisen, so wird dadurch die Gültigkeit, Wirksamkeit und Erfüllbarkeit der übrigen Teile der AGB nicht beeinträchtigt. Die vorliegenden AGB unterstehen ausschliesslich schweizerischem Recht. Ausschliesslicher Gerichtsstand ist das zuständige Gericht am Wohnsitz von JI, sofern das Gesetz keinen zwingenden Gerichtsstand vorsieht.
 
-Jérôme Imfeld, Opfikon, 12. Mai 2023
+Jérôme Imfeld, Opfikon, 1. Oktober 2023
