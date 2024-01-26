@@ -1,4 +1,4 @@
-# Zusätzliche Bestimmungen (Issue As An Issue)
+# Zusätzliche Bestimmungen
 
 ## 1. Issues
 
